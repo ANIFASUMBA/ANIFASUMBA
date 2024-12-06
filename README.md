@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ANIFASUMBA
-- DOCUMENTINGMY CODING GAME AS A GIRL IN TECH
+- DOCUMENTING MY CODING GAME AS A GIRL IN TECH
 - 👀 I’m interested in web develpoment(full stack),software engineering and graphic designs
 - 🌱 I’m currently learning javascript,php and python.
 - 💞️ I’m looking to collaborate on web develpoment projects,E-commerce projects and Mobile development projects
