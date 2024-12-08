@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANIFASUMBA
+- 👋 Hi, I’m ANIFA SUMBA
 - DOCUMENTING MY CODING GAME AS A GIRL IN TECH
 - 👀 I’m interested in web develpoment(full stack),software engineering and graphic designs
 - 🌱 I’m currently learning javascript,php and python.
