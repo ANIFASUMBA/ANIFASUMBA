@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ANIFA SUMBA.
+- 👋 Hi, I’m ANIFA SUMBA
 - DOCUMENTING MY CODING GAME AS A GIRL IN TECH.
 - Auntheniticating my coding journey as a  superior girl in TECH.
 - Sophisticated tech user.
