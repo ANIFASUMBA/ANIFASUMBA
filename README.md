@@ -3,7 +3,7 @@
 - Auntheniticating my coding journey as a  superior girl in TECH.
 - Sophisticated tech user.
 - 👀 I’m interested in web develpoment(full stack),software engineering and graphic designs.
-- 🌱 I’m currently learning javascript,php and python.
+- 🌱 I’m currently learning javascript,php and python
 - 💞️ I’m looking to collaborate on web develpoment projects,E-commerce projects and Mobile development projects.
 - 📫 How to reach me: sumbaanifa@gmail.com
 - 😄 Pronouns: her/she.
