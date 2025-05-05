@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ANIFA SUMBA
 - DOCUMENTING MY CODING GAME AS A GIRL IN TECH
-- Auntheniticating my coding journey as a  superior girl in TECH.
+- Auntheniticating my coding journey as a  superior girl in TECH
 - Sophisticated tech use
 - 👀 I’m interested in web develpoment(full stack),software engineering and graphic designs.
 - 🌱 I’m currently learning javascript,php and python
