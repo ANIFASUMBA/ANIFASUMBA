@@ -1,5 +1,5 @@
 .ANIFASUMBA/ANIFASUMBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
-- 📫 How to reach me:sumbaanifa@gmail.com
+- 📫 How to reach me: sumbaanifa@gmail.com
 - 😄 Pronouns: her/she
 - Am a proud tech lady , advancing like never before.
 - ⚡ Fun fact: My first language became my “mother tongue” in code —influencing how I approach problems, even when using other languages ​​right now
