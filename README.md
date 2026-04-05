@@ -1,4 +1,4 @@
-.ANIFASUMBA/ANIFASUMBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
+.ANIFASUMBA/ANIFASUMBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: sumbaanifa@gmail.com
 - 😄 Pronouns: her/she
 - Am a proud tech lady , advancing like never before
